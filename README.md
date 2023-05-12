@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tanton509@outlook.com**
 
-- 📄 Know about my experiences [I am a self-taught person who loves computers and programming. I explored Flutter and found that it is the right path for me.](I am a self-taught person who loves computers and programming. I explored Flutter and found that it is the right path for me.)
+- 📄 Know about my experiences (I am a self-taught person who loves computers and programming. I explored Flutter and found that it is the right path for me.)
 
 - ⚡ Fun fact **I love learning too much**
 
